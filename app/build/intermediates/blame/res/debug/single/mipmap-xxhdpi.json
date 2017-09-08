@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Francisco\\Downloads\\Lab01-master\\Lab01-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Francisco\\Downloads\\Lab01-master\\Lab01-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Users\\Lautaro\\Documents\\Lab01-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Users\\Lautaro\\Documents\\Lab01-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Users\\Lautaro\\Documents\\Lab01-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "D:\\Users\\Lautaro\\Documents\\Lab01-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Francisco\\Downloads\\Lab01-master\\Lab01-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Francisco\\Downloads\\Lab01-master\\Lab01-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Francisco\\Downloads\\Lab01-master\\Lab01-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icono.png",
+        "source": "C:\\Users\\Francisco\\Downloads\\Lab01-master\\Lab01-master\\app\\src\\main\\res\\mipmap-xxhdpi\\icono.png"
+    },
+    {
+        "merged": "D:\\Users\\Lautaro\\Documents\\Lab01-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icono.png",
+        "source": "D:\\Users\\Lautaro\\Documents\\Lab01-master\\app\\src\\main\\res\\mipmap-xxhdpi\\icono.png"
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ceroa5000menor30">0.25</string>
+    <string name="ceroa5000mayor30">0.275</string>
+    <string name="cincomila999999menor30">0.3</string>
+    <string name="cincomila999999mayor30">0.323</string>
+    <string name="mas999999menor30">0.35</string>
+    <string name="mas999999mayor30">0.385</string>
+</resources>

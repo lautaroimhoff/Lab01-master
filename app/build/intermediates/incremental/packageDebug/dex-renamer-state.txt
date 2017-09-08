@@ -1,0 +1,7 @@
+#Thu Sep 07 22:36:42 ART 2017
+base.0=D\:\\Users\\Lautaro\\Documents\\Lab01-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5807254a5612a2893a0f3e6ca03854b2cff7aa16
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Users\\Lautaro\\Documents\\Lab01-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5d690c2201276c82b3085abf4b9e792b5fd62ec\\classes.dex
+base.1=D\:\\Users\\Lautaro\\Documents\\Lab01-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5d690c2201276c82b3085abf4b9e792b5fd62ec
+file.0=D\:\\Users\\Lautaro\\Documents\\Lab01-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5807254a5612a2893a0f3e6ca03854b2cff7aa16\\classes.dex
